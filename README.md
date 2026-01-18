@@ -12,6 +12,8 @@
 
 The idea is to document this forgotten terminal*: with schematics, PCB scans, and ROMs dumps.
 
+Front of the terminal*
+
 ![Italtel omega 1000 terminal*](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/terminal_front.JPG)
 
 _*:technically speaking it's not a terminal_
