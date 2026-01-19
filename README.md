@@ -24,7 +24,7 @@ While the schematic is almost completed, around 80-90%, the other aspects, such 
 
 ## Backstory of the omega 1000
 
-_All images of the omega 1000 running are recreations and not actual images due to licensing issues with the orignal picutures. If you are interested to see the real ones you can find them at [this link](https://www.flickr.com/photos/fenoli/albums/72157625127098462/)_
+![SIP logo](https://live.staticflickr.com/4085/5064732805_b524fb26f8.jpg)
 
 
 ## Images credits
