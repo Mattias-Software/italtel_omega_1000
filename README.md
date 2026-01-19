@@ -12,7 +12,7 @@
 
 The idea is to document this forgotten terminal*: with schematics, PCB scans, and ROMs dumps.
 
-Front of the terminal*
+Front of the terminal*:
 
 ![Italtel omega 1000 terminal*](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/terminal_front.JPG)
 
@@ -24,12 +24,12 @@ While the schematic is almost completed, around 80-90%, the other aspects, such 
 
 ## Backstory of the omega 1000
 
+_All images of the omega 1000 running are recreations and not actual images due to licensing issues with the orignal picutures. If you are interested to see the real ones you can find them at [this link](https://www.flickr.com/photos/fenoli/albums/72157625127098462/)_
+
 
 ## Images credits
 
-All images used in this README are sourced from the following webistes:
-
-- https://www.flickr.com/photos/fenoli/albums/72157625127098462/
+All images used in this README are sourced from the following webiste:
 
 - http://www.museodelcomputer.org/index.php/nav=Catalogo.20/Language=ITA/Mode=Display/User=/Letter=A/Livello=Macchina/Marca=45/Item=857/Pagina=Fotografie?PHPSESSID=0fc26ae86eab0b679c15f3cfc731fa79
 
