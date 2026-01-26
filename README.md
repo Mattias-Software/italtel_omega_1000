@@ -31,7 +31,7 @@ _*:technically speaking it's not a terminal_
 
 ## Schematics
 
-The schematics can contain errors (especially the analog section of the motherboard) therefore you use the, at your own risk and are provided **AS IS**
+The schematics can contain errors (especially the analog section of the motherboard) therefore you use them at your own risk and are provided **AS IS**
 
 ## Images credits
 
