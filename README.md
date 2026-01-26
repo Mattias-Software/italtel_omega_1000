@@ -2,6 +2,7 @@
 - scope of the project
 - current progress
 - backstory of the omega 1000
+- schematics
 - images credits
 
 
@@ -20,12 +21,17 @@ _*:technically speaking it's not a terminal_
 
 ## Current progress
 
-While the schematic is almost completed, around 80-90%, the other aspects, such as ROM dumps, are at mearly 10-20% of completion.
+(x) Schematics
+(-) CPU and IO IC ROM dump
+(-) Emulator
 
 ## Backstory of the omega 1000
 
 ![SIP logo](https://live.staticflickr.com/4085/5064732805_b524fb26f8.jpg)
 
+## Schematics
+
+The schematics can contain errors (especially the analog section of the motherboard) therefore you use the, at your own risk and are provided **AS IS**
 
 ## Images credits
 
