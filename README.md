@@ -15,7 +15,7 @@ The idea is to document this forgotten terminal*: with schematics, PCB scans, an
 
 Front of the terminal*:
 
-![Italtel omega 1000 terminal*](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/terminal_front.JPG)
+![Italtel omega 1000 terminal*](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/terminal_front.JPG)  
 
 _*:technically speaking it's not a terminal_
 
@@ -31,14 +31,14 @@ Initally called Società Italiana Siemens per Impianti Elettrici, founded in 189
 
 Up until the 90s-00s it was specialised in phone and telecomunications.  
 
-![Italtel MB-44](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/mb-44.jpeg)
+![Italtel MB-44](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/mb-44.jpeg)  
 _An example of a "mobile" phone produced by Italtel (MB-44)_
 
 The Omega 1000 "termnal" was released probably around 1985-1986.  
 
 It was sold by SIP, the biggest italian telecomunication company at the time.  
 
-![SIP logo](https://live.staticflickr.com/4085/5064732805_b524fb26f8.jpg)
+![SIP logo](https://live.staticflickr.com/4085/5064732805_b524fb26f8.jpg)  
 _The SIP logo displayed at boot on the omega 1000_
 
 ## Schematics
