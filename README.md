@@ -23,10 +23,10 @@ Up until the 90s-00s it was specialised in phone and telecomunications.
 ![Italtel MB-44](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/mb-44.jpeg)  
 _An example of a "mobile" phone produced by Italtel (MB-44)_
 
-The Omega 1000 "termnal" was released probably around 1985-1986.  
+The Omega 1000 "terminal" was released probably around 1985-1986.  
 
 ![magazine picture](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/mag_img.png)  
-_Omega 100 in a 1987 megazine ad_
+_Omega 1000 in a 1987 megazine ad_
 
 It was sold by SIP, the biggest italian telecomunication company at the time.  
 
@@ -43,9 +43,9 @@ The primary function is a phone.
 
 As you can see in the picture in the "Scope of the project" section it has a SIP "Cobra" handset grafted to it:  
 
-![Cobra](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/cobra.jpeg)  
+![Cobra](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/cobra.JPG)  
 
-![Cobra front](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/cobra_front.jpeg)  
+![Cobra front](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/cobra_front.JPG)  
 
 ## Schematics
 
