@@ -1,14 +1,3 @@
-# INDEX
-- scope of the project
-- current progress
-- backstory of the omega 1000
-- schematics
-- images credits
-
-
-
-
-
 ## Scope of the project
 
 The idea is to document this forgotten terminal*: with schematics, PCB scans, and ROMs dumps.
@@ -36,10 +25,27 @@ _An example of a "mobile" phone produced by Italtel (MB-44)_
 
 The Omega 1000 "termnal" was released probably around 1985-1986.  
 
+![magazine picture](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/mag_img.png)  
+_Omega 100 in a 1987 megazine ad_
+
 It was sold by SIP, the biggest italian telecomunication company at the time.  
 
 ![SIP logo](https://live.staticflickr.com/4085/5064732805_b524fb26f8.jpg)  
 _The SIP logo displayed at boot on the omega 1000_
+
+# A terminal or a phone?
+
+Up until now I kept referring to this device as a "terminal"; but what is it exactly?  
+
+It's difficult to say. It's an hybrid; more than a phone but less than a terminal.  
+
+The primary function is a phone.  
+
+As you can see in the picture in the "Scope of the project" section it has a SIP "Cobra" handset grafted to it:  
+
+![Cobra](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/cobra.jpeg)  
+
+![Cobra front](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/cobra_front.jpeg)  
 
 ## Schematics
 
