@@ -8,12 +8,6 @@ Front of the terminal*:
 
 _*:technically speaking it's not a terminal_
 
-## Current progress
-
-(x) Schematics  
-(-) CPU and IO IC ROM dump  
-(-) Emulator  
-
 ## Backstory of the omega 1000
 
 Initally called Società Italiana Siemens per Impianti Elettrici, founded in 1898, in the 1980s it was rebranded as Italtel.  
@@ -33,19 +27,25 @@ It was sold by SIP, the biggest italian telecomunication company at the time.
 ![SIP logo](https://live.staticflickr.com/4085/5064732805_b524fb26f8.jpg)  
 _The SIP logo displayed at boot on the omega 1000_
 
-# A terminal or a phone?
+### A terminal or a phone?
 
 Up until now I kept referring to this device as a "terminal"; but what is it exactly?  
 
-It's difficult to say. It's an hybrid; more than a phone but less than a terminal.  
-
-The primary function is a phone.  
+It's an hybrid; It's a terminal but it can only be use as a phone.  
 
 As you can see in the picture in the "Scope of the project" section it has a SIP "Cobra" handset grafted to it:  
 
 ![Cobra](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/cobra.JPG)  
 
 ![Cobra front](https://github.com/Mattias-Software/italtel_omega_1000/blob/main/imgs/cobra_front.JPG)  
+
+Furthermore it completly lacks a CLI and the ability to connect to BBSs.  
+
+It can only connect to a number of predetermined services.  
+
+![SIP services](https://live.staticflickr.com/4145/5064734941_a26070ef64_k.jpg?s=eyJpIjo1MDY0NzM0OTQxLCJlIjoxNzcxMTQ3Mjk2LCJzIjoiNDc1MmUzNzE0ZDA3ZjEzNzViMDBiNmM0ZGVlZjM1Y2IwNjc1YmM5MCIsInYiOjF9)  
+
+This device can be used as a terminal only trough serial.  
 
 ## Schematics
 
