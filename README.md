@@ -43,7 +43,7 @@ Furthermore it completly lacks a CLI and the ability to connect to BBSs.
 
 It can only connect to a number of predetermined services.  
 
-![SIP services](https://live.staticflickr.com/4145/5064734941_a26070ef64_k.jpg?s=eyJpIjo1MDY0NzM0OTQxLCJlIjoxNzcxMTQ3Mjk2LCJzIjoiNDc1MmUzNzE0ZDA3ZjEzNzViMDBiNmM0ZGVlZjM1Y2IwNjc1YmM5MCIsInYiOjF9)  
+![SIP services](https://live.staticflickr.com/4145/5064734941_a26070ef64_k.jpg)  
 
 This device can be used as a terminal only trough serial.  
 
